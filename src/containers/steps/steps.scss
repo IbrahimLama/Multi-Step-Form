@@ -1,0 +1,31 @@
+.Steps {
+    .StepsBG {
+        background-image: url('../../images/bg-sidebar-desktop.svg');
+        background-repeat: no-repeat;
+        width: 279px;
+        height: 568px;
+        padding: 35px 30px;
+    }
+
+    .Step {
+        display: flex;
+        margin-bottom: 20px;
+        .Number {
+            color: #fff;
+            border: 1px solid #fff;
+            border-radius: 50%;
+            padding: 6px 12px;
+            margin-right: 12px;
+        }
+
+        .Details {
+            text-transform: uppercase;
+            .Header {
+
+            }
+
+            .Title {
+            }
+        }
+    }
+}
